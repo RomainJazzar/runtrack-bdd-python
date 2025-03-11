@@ -1,0 +1,2 @@
+USE LaPlateforme;
+DESCRIBE etudiant;
